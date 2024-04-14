@@ -1,0 +1,19 @@
+h1{
+    background-color:rgb(63, 236, 47);
+    color:#ffff;
+    text-align: center;
+}
+
+#cajas{
+    margin: 5px;
+    color: rgb(7, 7, 7);
+    
+}
+
+#btn_enviar{
+    margin-left: 5px;
+
+    color: blue;
+    background-color: rgb(15, 235, 45);
+   
+}

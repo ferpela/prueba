@@ -1,0 +1,69 @@
+h1{
+    background-color:rgb(12, 12, 12);
+    color:#ffff;
+    text-align: center;
+    padding: 15px;
+    width: 490px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#titulo{
+   border-radius: 15px;
+   border-color: red ;
+}
+#body{
+    background-color: rgb(140, 140, 240);
+       
+}
+
+#datos{
+    background-color: rgb(107, 107, 224);
+    text-align: center;
+    border-color: rgb(10, 10, 10);
+    border-radius: 15px;
+    border-style:solid;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 500px;
+    height: 800px;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+
+#puntos{text-align:center;margin-left: 5px;}
+#peso{height: 20px; width: 30px;}
+#altura{height: 20px; width: 35px;}
+#cintura{height: 20px; width: 30px;}
+#brazos{height: 20px; width: 30px; margin-left: 25px;margin-right: 15px;}
+#cabo{height: 20px; width: 30px; margin-left: 95px;margin-right: 15px;}
+
+#cajas{
+    margin: 5px;
+    color: rgb(7, 7, 7);
+    
+}
+
+#fuerza{
+    border-style:solid;
+    padding: 15px;
+    text-align: center;
+    margin: 5px;
+    background-color: aqua;
+        
+}
+
+#boton{
+    width: 100px;
+    height: 45px;
+    margin-inline: 35px;
+    color: rgb(249, 249, 253);
+    background-color: rgb(20, 6, 207);
+   
+}
+#boton:hover{
+    background-color: rgb(26, 126, 6);
+    color: black;
+    
+}
